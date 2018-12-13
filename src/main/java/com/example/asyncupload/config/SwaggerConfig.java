@@ -1,4 +1,4 @@
-package com.example.asynupload.config;
+package com.example.asyncupload.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
