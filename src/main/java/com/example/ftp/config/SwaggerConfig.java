@@ -1,4 +1,4 @@
-package com.example.asyncupload.config;
+package com.example.ftp.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

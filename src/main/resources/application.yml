@@ -1,0 +1,11 @@
+application:
+  ftp:
+    host:
+    username:
+    password:
+
+spring:
+  http:
+    multipart:
+      max-file-size: 200Mb
+      max-request-size: 300Mb
